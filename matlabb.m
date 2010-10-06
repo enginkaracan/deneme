@@ -1,1 +1,1 @@
-printf("selam dünya;)
+printf("selam dünya bende githubdayım")
